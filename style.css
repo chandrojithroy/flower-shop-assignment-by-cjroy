@@ -175,7 +175,7 @@ nav a {
     text-align: center;
     padding-top: 85px;
     padding-bottom: 85px;
-    
+
 
 }
 
@@ -199,3 +199,141 @@ nav a {
 
 
 /* This is Hot Deal ! Sale Up To 25% Off */
+
+
+.hot-main {
+
+    width: 1580px;
+    height: 620px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    display: flex;
+    padding: o;
+    margin: 120px 0;
+}
+
+.hot-header {
+    margin-top: 230px;
+    margin-left: 140px;
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.text-colour {
+    color: #E55473;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.hot-pg {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-left: 140px;
+    margin-top: 25px;
+
+}
+
+.hot-pg-two {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-left: 170px;
+    margin-bottom: 25px;
+
+}
+
+.btn-primary-two {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    padding: 20px 43px;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+    margin-left: 360px;
+
+}
+
+.hot-img {
+    margin-top: 100px;
+    margin-left: 200px;
+}
+
+/* This is Instagram */
+
+.in-header {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 25px;
+}
+
+.in-pg {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+
+}
+
+.in-pic-main {
+    display: flex;
+    margin: 50px 120px 125px;
+}
+
+
+
+.in-pic-one {
+    width: 342px;
+    height: 396px;
+    margin-right: 20px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.in-pic-two {
+    width: 342px;
+    height: 396px;
+    margin-right: 20px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.in-pic-three {
+    width: 342px;
+    height: 396px;
+    margin-right: 20px;
+    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+
+.in-pic-four {
+    width: 342px;
+    height: 396px;
+    margin-right: 20px;
+    background: url(<path-to-image>), lightgray -11.535px 0px / 173.728% 100% no-repeat;}
+
+
+    /* This is Get The Latest Deals */
+
+    
