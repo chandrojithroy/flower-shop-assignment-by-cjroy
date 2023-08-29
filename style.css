@@ -11,6 +11,7 @@ nav {
     background: rgba(229, 84, 115, 0.10);
     align-items: center;
     justify-content: space-between;
+    padding:30px 120px ;
 }
 
 .nav-title {
@@ -20,6 +21,7 @@ nav {
 
 nav>ul {
     display: flex;
+
 }
 
 nav li {
@@ -33,6 +35,48 @@ nav a {
 
 }
 
-.headerprimary{
-    
+/* This is Banner */
+
+.banner {
+    display: flex;
+    align-items: center;
+    background: rgba(229, 84, 115, 0.10);
+    padding: 30px 120px;
 }
+
+.profile-pic {
+    width: 635px;
+    height: 800px;
+}
+
+.banner-greeting {
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+
+    font-weight: 800;
+}
+
+.banner-paragraph {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 30px 0;
+}
+
+.btn-primary {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    padding: 20px 43px;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+}
+
+/* This is Our Featured Flowers */
