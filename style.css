@@ -314,12 +314,14 @@ nav a {
     margin-right: 20px;
     background: url(<path-to-image>), lightgray 50% / cover no-repeat;
 }
+
 .in-pic-two {
     width: 342px;
     height: 396px;
     margin-right: 20px;
     background: url(<path-to-image>), lightgray 50% / cover no-repeat;
 }
+
 .in-pic-three {
     width: 342px;
     height: 396px;
@@ -331,9 +333,116 @@ nav a {
     width: 342px;
     height: 396px;
     margin-right: 20px;
-    background: url(<path-to-image>), lightgray -11.535px 0px / 173.728% 100% no-repeat;}
+    background: url(<path-to-image>), lightgray -11.535px 0px / 173.728% 100% no-repeat;
+}
 
 
-    /* This is Get The Latest Deals */
+/* This is Get The Latest Deals */
 
+
+.btn-main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 120px;
+
+}
+
+.form-mein {
+    align-items: center;
+    text-align: center;
+    background: url(./images/Rectangle\ 9.png);
+    border-radius: 8px;
+    background-repeat: no-repeat;
+    margin-left: 120px;
+    margin-bottom: 120px;
+
+}
+
+.btn-deals {
+    padding-top: 100px;
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.p-coupon {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 45px;
+}
+
+.f-email {
+
+
+    border-radius: 8px;
+    background: #FFF;
+    margin-right: 15px;
+
+    padding: 22px 500px 22px 22px;
+}
+
+
+/* contact section  */
+
+.fl-header {
+    color: #FFF;
+    font-family: Lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    padding-top: 100px;
+    padding-bottom: 25px;
+
+}
+
+.fl-pg {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.fl-pg-two{
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    padding-bottom: 30px;
     
+}
+
+.fl-main {
+    justify-content: center;
+    text-align: center;
+    background: #111010;
+
+}
+
+.fl-contact{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-bottom: 120px;
+
+}
