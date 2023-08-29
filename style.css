@@ -129,7 +129,7 @@ nav a {
 
 }
 
-.flo-tree{
+.flo-tree {
     margin: 5px;
 }
 
@@ -140,21 +140,62 @@ nav a {
     font-size: 24px;
     font-style: normal;
     font-weight: 700;
-    line-height: 35px; 
+    line-height: 35px;
     text-decoration-line: underline;
 
     margin-top: 30px;
     margin-bottom: 130px;
 }
 
-/* .flo-tree {
-    
-    align-items: center;
-    display: flex;
 
-} */
-
-.mein-flo{
+.mein-flo {
     display: flex;
     margin: 0px 120px;
 }
+
+/* This is delivery section  */
+
+
+.dv-area {
+    width: 1440px;
+    height: 320px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    margin: 0 120px;
+
+}
+
+.dv-main-div {
+
+    display: flex;
+
+    /* border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05); */
+    align-items: center;
+    text-align: center;
+    padding-top: 85px;
+    padding-bottom: 85px;
+    
+
+}
+
+.delivery-paragraph {
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 35px;
+    margin-left: 90px;
+}
+
+.delivery-icon {
+    margin-left: 90px;
+    margin-bottom: 22px;
+    width: 88px;
+    height: 88px;
+}
+
+
+/* This is Hot Deal ! Sale Up To 25% Off */
