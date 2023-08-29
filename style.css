@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+/* This is Header */
+
+nav {
+    display: flex;
+    background: rgba(229, 84, 115, 0.10);
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav-title {
+    font-size: 45px;
+    font-weight: 800;
+}
+
+nav>ul {
+    display: flex;
+}
+
+nav li {
+    list-style: none;
+    margin-right: 40px;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+
+}
+
+.headerprimary{
+    
+}
